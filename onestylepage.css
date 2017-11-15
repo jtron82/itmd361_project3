@@ -32,6 +32,7 @@ nav#navbar ul li a:hover {
 #map{
   height: 400px;
   width: 700px;
+  background-color: grey;
 }
 
 #page1 h1 {
