@@ -29,6 +29,11 @@ nav#navbar ul li a:hover {
 
 /* index CSS */
 
+#map{
+  height: 400px;
+  width: 700px;
+}
+
 #page1 h1 {
   font-size: 2em;
   font-weight: bold;
@@ -46,6 +51,10 @@ nav#navbar ul li a:hover {
 }
 
 #page1 #c {
+  margin-top: 20px;
+}
+
+#page1 #d {
   margin-top: 20px;
 }
 
