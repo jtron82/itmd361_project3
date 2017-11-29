@@ -29,12 +29,12 @@ nav#navbar ul li a:hover {
 	color: white;
 }
 
-#navi {
+/* index CSS */
+
+#page1 #navi {
   width: 500px;
   margin: 0 auto;
 }
-
-/* index CSS */
 
 #map{
   height: 400px;
@@ -130,6 +130,11 @@ nav#navbar ul li a:hover {
 
 /* aboutme CSS */
 
+#page2 #navi {
+  width: 500px;
+  margin: 0 auto;
+}
+
 .firstchar {
   color: gray;
   font-weight: bold;
@@ -213,6 +218,11 @@ nav#navbar ul li a:hover {
 }
 
 /* resume CSS */
+
+#page3 #navi {
+  width: 500px;
+  margin: 0 auto;
+}
 
 #page3 .text {
   text-decoration: underline;
